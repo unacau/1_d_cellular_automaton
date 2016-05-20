@@ -1,7 +1,4 @@
 /**
- * Anne Chen
- * CS 11, Spring 2016 Lab 5  
- * 
  * This program simulates a one dimensional cellular automaton. This is
  * a collection of cells that hold data values, organized into geometric
  * arrangements. This 1DCA has two states, full and empty. It updates 
