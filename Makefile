@@ -1,6 +1,3 @@
-# Anne Chen
-#
-
 CC     = gcc
 CFLAGS = -g -Wall -Wstrict-prototypes -ansi -pedantic
 
