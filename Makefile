@@ -1,5 +1,4 @@
 # Anne Chen
-# CS 11: Makefile for C track, assignment 5.
 #
 
 CC     = gcc
